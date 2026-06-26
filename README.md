@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm TheEzio5! 👋
 
-<!--
-**TheEzio5/TheEzio5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer working on Python automation, Discord bots, and tools.
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Tools
+- **Languages:** Python, JavaScript
+- **Specialties:** Web Scraping, Automation Scripts, Discord API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Dynamic GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheEzio5&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheEzio5&layout=compact&theme=radial)
+
+### ⚡ Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
