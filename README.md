@@ -15,8 +15,9 @@ I'm building a portfolio of software projects while learning Python, object-orie
 
 ## 📌 Featured Projects
 
-- ⭐ Job Application Tracker
-- ⭐ World of Meals API
+⭐ [Job Application Tracker](https://github.com/TheEzio5/job-application-tracker)
+
+⭐ [World of Meals API](https://github.com/TheEzio5/world-of-meals-api)
 
 ## 🌱 Currently Learning
 
