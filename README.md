@@ -13,7 +13,7 @@ I'm building a portfolio of software projects while learning Python, object-orie
 - Git & GitHub
 - MySQL
 
-## 📌 Current Projects
+## 📌 Featured Projects
 
 - ⭐ Job Application Tracker
 - ⭐ World of Meals API
