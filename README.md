@@ -1,15 +1,37 @@
-# Hi, I'm TheEzio5! 👋
+# Hi, I'm Robert Banjad 👋
 
-I'm a developer working on Python automation, Discord bots, and tools.
+Aspiring Software Developer from Croatia 🇭🇷 currently living in the Netherlands 🇳🇱.
 
-### 🛠️ Technologies & Tools
-- **Languages:** Python, JavaScript
-- **Specialties:** Web Scraping, Automation Scripts, Discord API
+I'm building a portfolio of software projects while learning Python, object-oriented programming, REST APIs, and backend development.
 
-### 📈 Dynamic GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheEzio5&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheEzio5&layout=compact&theme=radial)
+## 🛠 Technologies
 
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+- Python
+- PHP
+- Laravel
+- JSON
+- Git & GitHub
+- MySQL
+
+## 📌 Current Projects
+
+- ⭐ Job Application Tracker
+- ⭐ World of Meals API
+
+## 🌱 Currently Learning
+
+- Advanced Python
+- Software Design
+- Data Structures
+- Tkinter
+- Flask
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheEzio5&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheEzio5&layout=compact)
+
+---
+
+*"Every project is another step toward becoming a better software developer."*
