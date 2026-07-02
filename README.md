@@ -21,11 +21,11 @@ I'm building a portfolio of software projects while learning Python, object-orie
 
 ## 🌱 Currently Learning
 
-- Advanced Python
-- Software Design
-- Data Structures
-- Tkinter
-- Flask
+🐍 Advanced Python
+🧠 Object-Oriented Programming
+📚 Data Structures & Algorithms
+🖥️ Tkinter
+🌐 Flask
 
 
 ---
