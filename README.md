@@ -15,9 +15,12 @@ I'm building a portfolio of software projects while learning Python, object-orie
 
 ## 📌 Featured Projects
 
+⭐ [Task Forge](https://github.com/TheEzio5/task-forge)
+
 ⭐ [Job Application Tracker](https://github.com/TheEzio5/job-application-tracker)
 
 ⭐ [World of Meals API](https://github.com/TheEzio5/world-of-meals-api)
+
 
 ## 🌱 Currently Learning
 
